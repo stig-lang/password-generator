@@ -20,4 +20,4 @@ You can use `ng build` to build this project. The build artifacts will be stored
 
 ## Where can I reach the project?
 
-You can reach [Password Generator](https://passwordgenerator-72da5.web.app/)
+You can reach [Password Generator](https://passwordgenerator-72da5.web.app/) with clicking there. 
