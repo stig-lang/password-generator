@@ -2,6 +2,14 @@
 
 If you'd like to create a password with a really basic and fast way, you can use **this** generator! There is 3 options such as; including numbers, symbols and alphabet of course. New features will be added soon. Have fun with generating **strong** passwords!
 
+## A little bit detail
+
+Project is made with:
+
+- Angular 13
+- Bulma (CSS)
+- Firebase (Hosting)
+
 ## How to start development server?
 
 Run `ng serve` to create and run development server. Development server will be hosted on `https://localhost:4200` as default.
