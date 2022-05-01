@@ -16,7 +16,7 @@ Run `ng serve` to create and run development server. Development server will be 
 
 ## How to build the project?
 
-You can use `ng build` to build this project. The build artifacts will be stored in the `docs/` directory. But i've changed the properties, so normally it will be stored in `dist/projectname` folder. You can edit this property in `angular.json` files.
+You can use `ng build` to build this project. The build artifacts will be stored in the `docs/` directory. But i've changed the properties, so normally it will be stored in `dist/projectname` folder. You can edit this property in `angular.json` file.
 
 ## Where can I reach the project?
 
